@@ -1,0 +1,6 @@
+loanapplication/venv/
+loanapplication/__pycache__/
+loanprocessing/venv/
+loanprocessing/__pycache__/
+wallettransactions/venv/
+wallettransactions/__pycache__/
